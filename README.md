@@ -5,6 +5,7 @@ This is the official implementation for testing depth estimation using the model
 
 RAFM can estimate a depth map from a single image.
 
+![image](https://user-images.githubusercontent.com/32475718/177465704-dba9737c-7875-4fcf-afe9-709215299bb3.png)
 
 
 ## Pretrained Models
